@@ -17,6 +17,18 @@ const config: Config = {
           500: '#0070F3',
           600: '#2F6FEB',
         },
+        background: {
+          main: '#404040'
+        },
+        primary: {
+          main: '#F06767'
+        },
+        secondary: {
+          main: '#7CACF3'
+        },
+        accent: {
+          main: '#788897'
+        },
       },
     },
     keyframes: {
