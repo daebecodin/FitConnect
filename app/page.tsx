@@ -33,7 +33,14 @@ export default function Page() {
                 width={1000}
                 height={760}
                 className="hidden md:block"
-                alt="dashboard hero"
+                alt="desktop hero"
+            />
+            <Image
+            src="/fitness-stat-mobile-hero.svg"
+            width={560}
+            height={620}
+            className="block md:hidden"
+            alt={"mobile hero"}
             />
         </div>
       </div>
